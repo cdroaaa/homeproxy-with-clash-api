@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "galaxyappstore.com",
+        "apps.razer.com",
+        "client.wns.windows.com"
+      ]
+    }
+  ]
+}
