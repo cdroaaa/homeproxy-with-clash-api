@@ -3,12 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "galaxyappstore.com",
-        "jsdelivr.net",
-        "jsdelivr.com",
-        "duse1.com",
-        "duse2.com",
-        "client.wns.windows.com"
+        "av01.media",
+        "av01.xyz",
+        "iw01.xyz",
+        "2048.info"
       ]
     }
   ]
