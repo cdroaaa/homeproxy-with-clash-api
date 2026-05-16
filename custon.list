@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,av01.media
 DOMAIN-SUFFIX,av01.xyz
 DOMAIN-SUFFIX,iw01.xyz
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,googletagmanager.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,
