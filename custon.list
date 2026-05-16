@@ -7,6 +7,6 @@ DOMAIN-SUFFIX,iw01.xyz
 DOMAIN-SUFFIX,copilot.microsoft.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,googleapis
+# DOMAIN-KEYWORD,googleapis
 
 
