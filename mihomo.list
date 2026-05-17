@@ -1,6 +1,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,2048.info
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,browserleaks
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,av01
