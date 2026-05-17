@@ -3,12 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "2048.info"
+        "2048.info",
+        "iw01.xyz",
+        "av01.media",
+        "av01.xyz"
       ],
-      "domain_keyword": [
-        "av01",
-        "iw01"
-      ]
     }
   ]
 }
