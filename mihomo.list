@@ -1,7 +1,5 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,2048.info
-
+DOMAIN-SUFFIX,iw01.xyz
 # 域名关键字匹配
 DOMAIN-KEYWORD,av01
-DOMAIN-KEYWORD,iw01
-
