@@ -3,11 +3,15 @@
   "rules": [
     {
       "domain_suffix": [
-        "2048.info",
-        "iw01.xyz",
-        "av01.media",
-        "av01.xyz"
+        "galaxyappstore.com",
+        "client.wns.windows.com",
+        "apps.razer.com"
       ],
+      "domain_keyword":[
+        "duse",
+        "vip.ffzy-play",
+        "ffzy-online"
+      ]
     }
   ]
 }
