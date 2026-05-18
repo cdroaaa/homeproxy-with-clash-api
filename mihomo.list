@@ -2,3 +2,7 @@
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,client.wns.windows.com
 DOMAIN-SUFFIX,apps.razer.com
+DOMAIN-SUFFIX,vip.ffzy-plays.com
+
+# 域名后缀匹配
+DOMAIN-KEYWORD,duse
